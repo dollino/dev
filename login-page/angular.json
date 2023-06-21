@@ -30,6 +30,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@taiga-ui/core/styles/taiga-ui-theme.less",
+              "node_modules/@taiga-ui/core/styles/taiga-ui-fonts.less",
               "src/styles.scss"
             ],
             "scripts": []
@@ -108,4 +110,5 @@
   "cli": {
     "analytics": "c86b8233-30b3-4fa2-aa7a-4550005a3b33"
   }
+  
 }
